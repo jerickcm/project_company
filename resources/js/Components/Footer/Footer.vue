@@ -33,7 +33,7 @@ export default {
                         business days.
                     </h5>
                     <div class="mt-6">
-                        <button
+                        <!-- <button
                             class="bg-white text-blue-400 shadow-lg font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2 p-3"
                             type="button"
                         >
@@ -43,17 +43,32 @@ export default {
                             type="button"
                         >
                             <i class="flex fab fa-facebook-square"></i></button
-                        ><button
-                            class="bg-white text-pink-400 shadow-lg font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2 p-3"
-                            type="button"
+                        > -->
+
+                        <a
+                            target="_blank"
+                            href="https://www.linkedin.com/in/jayson-carlos-mangalus-b56b2753/"
                         >
-                            <i class="flex fab fa-dribbble"></i></button
-                        ><button
-                            class="bg-white text-gray-900 shadow-lg font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2 p-3"
-                            type="button"
+                            <button
+                                class="bg-pink-500 text-white w-8 h-8 rounded-full outline-none focus:outline-none mr-1 mb-1"
+                                type="button"
+                            >
+                                <img
+                                    src="/assets/img/logo/linkedin-icon-2.svg"
+                                />
+                            </button>
+                        </a>
+                        <a
+                            target="_blank"
+                            href="https://www.facebook.com/jaysoncarlos.mangalus"
                         >
-                            <i class="flex fab fa-github"></i>
-                        </button>
+                            <button
+                                class="bg-blue-600 text-white w-8 h-8 rounded-full outline-none focus:outline-none mr-1 mb-1"
+                                type="button"
+                            >
+                                <img src="/assets/img/logo/facebook-3-2.svg" />
+                            </button>
+                        </a>
                     </div>
                 </div>
                 <div class="w-full lg:w-6/12 px-4">
@@ -71,7 +86,7 @@ export default {
                                         >About Us</a
                                     >
                                 </li>
-                                <li>
+                                <!-- <li>
                                     <a
                                         class="text-gray-700 hover:text-gray-900 font-semibold block pb-2 text-sm"
                                         href="https://blog.creative-tim.com"
@@ -91,7 +106,7 @@ export default {
                                         href="https://www.creative-tim.com/bootstrap-themes/free"
                                         >Free Products</a
                                     >
-                                </li>
+                                </li> -->
                             </ul>
                         </div>
                         <div class="w-full lg:w-4/12 px-4">
@@ -100,13 +115,13 @@ export default {
                                 >Other Resources</span
                             >
                             <ul class="list-unstyled">
-                                <li>
+                                <!-- <li>
                                     <a
                                         class="text-gray-700 hover:text-gray-900 font-semibold block pb-2 text-sm"
                                         href="https://github.com/creativetimofficial/argon-design-system/blob/master/LICENSE.md"
                                         >MIT License</a
                                     >
-                                </li>
+                                </li> -->
                                 <li>
                                     <a
                                         class="text-gray-700 hover:text-gray-900 font-semibold block pb-2 text-sm"
@@ -139,18 +154,12 @@ export default {
             >
                 <div class="w-full md:w-4/12 px-4 mx-auto text-center">
                     <div class="text-sm text-gray-600 font-semibold py-1">
-                        Copyright © 2019 Tailwind Starter Kit by
-                        <a
-                            href="https://www.creative-tim.com"
-                            class="text-gray-600 hover:text-gray-900"
-                            >Creative Tim</a
-                        >.
+                        Copyright © 2023 Mangalus Engineering Industries Co.
+                        Limited
                     </div>
                 </div>
             </div>
         </div>
     </footer>
 </template>
-<style scoped>
-
-</style>
+<style scoped></style>
