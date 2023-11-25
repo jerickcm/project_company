@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Laravel Sail Development Boilerplate
 
 ## Overview
@@ -6,14 +7,6 @@ This is a boilerplate project for Laravel development using Laravel Sail. Larave
 
 ## Prerequisites
 
-Make sure you have the following prerequisites installed on your machine:
+# project_company
 
-- [Docker](https://docs.docker.com/get-docker/)
-- [Docker Compose](https://docs.docker.com/compose/install/)
-
-## Getting Started
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/your-laravel-sail-boilerplate.git
+Company Startup - Company Information Page
